@@ -1,0 +1,62 @@
+Dear sir,
+Here I have tried to solve all the problems and found some new problems to solve this Issue.
+As for the issues that were attached to this email, I have tried my best to resolve it. 
+There were some confusing issues here and I tried to resolve all the issues. 
+I believe all issues related to email have been resolved.
+
+
+Issue 1: Database Connection Problem database_connection.php ----- attatchment issue 1
+solve: Change Connection "mysqli_connect" method. ----- attatchment issue 1
+
+
+Issue 2: Login Module:
+	* Login Page And Function Problem Fix.----- attatchment issue 1
+	* Check Password System Change. 
+	* User Email And Password Validation.
+	* I Will change query and query execute method and solve it.
+
+
+Issue 3: Home Page:
+	* "Total User" Shoing Has query problem. fix it.
+	* "Total Category" Shoing Has query problem. fix it.
+	* "Total Brand" Shoing Has query problem. fix it.
+	* "Total Item in Stock" Has query problem. fix it.
+	* "Total Order Value Shoing" Has query problem. fix it.
+	* "Total Cash Order Value" Has query problem. fix it.
+	* "Total Credit Order Value" Shoing Has query problem. fix it. ----- attatchment issue 2
+	* "Total Order Value User wise" has Shoing Has query problem. fix it.
+
+
+Issue 4: User Module: 
+	* User Create Query Problem Fix.
+	* User Listing Problem Fix.
+	* Have Some Problem Filtering and sorting. Fix It.
+	* User Edit And Update Problem Fix.
+	* User Delete Status Problem Fix.
+	* Add Name, Email And Password validation in User Create Module. ----- attatchment Task 1
+	* I'm Confuse An Option, alerady user successfully created "Steven Paul Jobs" this username.
+	 But If This Username is unique then checked and cehckbox in add user modal.
+	 i will and an extra checkbox for validation unique username. ----- attatchment issue 7
+	* Add Name, Email, Password Validation Error And Show Error Message In front.
+
+
+Issue 5: Order Module:
+	* Order Listing Problem Solve ----- attatchment issue 3
+	* Order Create Problem Solve
+	* Fix Order Order And Product Price Calculation.
+	* Order Delete Status Change Problem Fix.----- attatchment issue 4
+	* Order Edit And Update Have Some Problem. That Fix.----- attatchment issue 4
+	* Order Table Data Filtering With user_details and Order Table Data with join query. ----- attatchment issue 5
+	* Order Table Data Sorting Problem Fixing.
+	* Order View Change With Update Dompdf Package ----- attatchment issue 6
+	* Actully I Don't Know About The Calculation In Show Order Page. But I Will fix that, and i think this is right.
+	* Change Date Time Format "2024-03-25" To "25 March 2024" ----- attatchment Task 2
+
+
+Issue 5: User Profile:
+	* Add Password and Re-Password Same Validation add in profile update funcnolity.
+	* Add Old Password Field In User Form.
+	* Verify Old Password With Database passwrd.
+	* Update New Password With Verify Re-Enter Password. ----- attatchment Task 3
+	* Update Profile With Password and without password.----- attatchment Task 3
+
